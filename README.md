@@ -2,6 +2,8 @@
 
 My background is rooted in the medical field, where I initially built a strong foundation. Over time, I expanded my expertise to include Python programming, organic chemistry, and computer science. This multidisciplinary approach eventually led me to specialize in Cheminformatics, Quantum Chemistry and Computational Chemistry, with a focus on drug discovery and materials science research.
 
+**My Journey**
+
 ```
 Medical Laboratory Science       Medicinal Chemistry      Toxicology                DevOps Engineering
      /                          Nano-Drug Discovery      Cheminformatics           Computational Chemistry
@@ -22,7 +24,7 @@ Govenment Medical Labs      UoR, FoM                 UoC, FoM                   
 
 ```
 
-My journey in the universe of Cheminformatics and Computational Chemistry has been guided by Mr. Sul, who has been an invaluable mentor and educator. Currently, I am leveraging my research experience to assist scientists and business professionals in the U.S. through Global-Chemistry Inc. I help them build and grow their ventures, utilizing my expertise in research and development within this field.
+My journey in the universe of Cheminformatics and Computational Chemistry has been guided by Mr. Sul, who has been an invaluable mentor and educator. Currently, I am leveraging my research experience to support scientists and business professionals in the U.S. through Global-Chemistry Inc. I help them build and grow their ventures, utilizing my expertise in research and development within this field.
 
 
 

@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there I am Anu
+
+```
+Graphic Designer         Medicinal Chemistry      Toxicology          DevOps Engineering       
+                        Nano-Drug Discovery      Anti-Snake Venom     Computational Chemistry
+                                                Cheminformatics 
+   /                   /                        /                    /                          
+  /                   /                        /                    /                          
+2020                2021                     2023                 2024                       
+/.................../......................../..................../.......................
+
+```
+
+
 
 <!--
 **ANUGAMAGE/ANUGAMAGE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

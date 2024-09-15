@@ -1,13 +1,15 @@
 ## Hi there I am Anu
 
+My background is rooted in the medical field, where I initially built a strong foundation. Over time, I expanded my expertise to include Python programming, organic chemistry, and computer science. This multidisciplinary approach eventually led me to specialize in Cheminformatics and Computational Chemistry, with a focus on drug discovery and materials science research.
+
 ```
-Graphic Designer         Medicinal Chemistry      Toxicology          DevOps Engineering       
-                        Nano-Drug Discovery      Anti-Snake Venom     Computational Chemistry
-                                                Cheminformatics 
-   /                   /                        /                    /                          
-  /                   /                        /                    /                          
-2020                2021                     2023                 2024                       
-/.................../......................../..................../.......................
+Graphic Designer       Medicinal Chemistry      Toxicology           DevOps Engineering
+     /                 Nano-Drug Discovery      Anti-Snake Venom     Computational Chemistry
+    /                /                         Cheminformatics     /
+   /                /                        /                    /                          
+  /                /                        /                    /                          
+2020            2021                     2023                 2024                       
+/.............../......................../..................../.......................
 
 ```
 

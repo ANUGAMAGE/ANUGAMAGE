@@ -3,13 +3,22 @@
 My background is rooted in the medical field, where I initially built a strong foundation. Over time, I expanded my expertise to include Python programming, organic chemistry, and computer science. This multidisciplinary approach eventually led me to specialize in Cheminformatics, Quantum Chemistry and Computational Chemistry, with a focus on drug discovery and materials science research.
 
 ```
-Medical Laboratory Science       Medicinal Chemistry      Toxicology           DevOps Engineering
-     /                          Nano-Drug Discovery      Cheminformatics      Computational Chemistry
-    /                          Computer Science         /                    /
-   /                          /                        /                    /                         
-  /                          /                        /                    /                          
-2018                      2021                     2023                 2024                       
-/........................./......................../..................../.......................>>>>>>>
+Medical Laboratory Science       Medicinal Chemistry      Toxicology                DevOps Engineering
+     /                          Nano-Drug Discovery      Cheminformatics           Computational Chemistry
+    /                          Computer Science         /                          /
+   /                          /                        /                          /                         
+  /                          /                        /                          /                          
+2018                      2021                     2023                         2024                       
+/........................./......................../............................/.......................>>>>>>>
+\                         \                        \                            \
+ \                         \                        \                            \
+Govenment Medical Labs      UoR, FoM                 UoC, FoM                     UoC, FoM
+ Nucler Medicine Unit        \\                       Global-Chemistry             Global-Chemistry
+  UoR, FoAHS                  R.A                      \\                           Sul's Research Group
+     \\                                                 R.A                          Standard Seed Corps
+   Med-Tech                                              Open Source Contributer      \\
+                                                                                       R.A
+                                                                                        Research Scientist
 
 ```
 

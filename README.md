@@ -15,12 +15,12 @@ Medical Laboratory Science       Medicinal Chemistry      Toxicology            
 \                         \                        \                            \
  \                         \                        \                            \
 Govenment Medical Labs      UoR, FoM                 UoC, FoM                     UoC, FoM
- Nucler Medicine Unit        \\                       Global-Chemistry             Global-Chemistry
-  UoR, FoAHS                  R.A                      \\                           Sul's Research Group
-     \\                                                 R.A                          Standard Seed Corps
-   Med-Tech                                              Open Source Contributer      \\
+ Nucler Medicine Unit         |                       Global-Chemistry             Global-Chemistry
+  UoR, FoAHS                  R.A                        |                           Sul's Research Group
+   |                                                     R.A                          Standard Seed Corps
+   Med-Tech                                              Open Source Contributer       |
                                                                                        R.A
-                                                                                        Research Scientist
+                                                                                       Research Scientist-Anu Research Group
 
 ```
 

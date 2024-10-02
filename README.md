@@ -14,13 +14,14 @@ Medical Laboratory Science       Medicinal Chemistry      Toxicology            
 /........................./......................../............................/.......................>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 \                         \                        \                            \
  \                         \                        \                            \
-Govenment Medical Labs      UoR, FoM                 UoC, FoM                     UoC, FoM
- Nucler Medicine Unit         |                       Global-Chemistry             Global-Chemistry
-  UoR, FoAHS                  R.A                        |                           Sul's Research Group
-   |                                                     R.A                          Standard Seed Corps
-   Med-Tech                                              Open Source Contributer       |
-                                                                                       R.A
-                                                                                       Research Scientist-Anu Research Group
+Govenment Medical Labs      UoR, FoM                 UoC, FoM                     Global-Chemistry
+ Nucler Medicine Unit         |                       Global-Chemistry             Sul's Research Group
+  UoR, FoAHS                  R.A                        |                          Standard Seed Corps
+   |                                                     R.A                           | 
+   Med-Tech                                              Open Source Contributer       Research Scientist
+                                                                                       (Anu Research Group)  
+                                                                                       
+                                                                                       
 
 ```
 

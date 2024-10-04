@@ -14,7 +14,7 @@ Medical Laboratory Science       Medicinal Chemistry      Toxicology            
 /........................./......................../............................/.......................>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 \                         \                        \                            \
  \                         \                        \                            \
-Govenment Medical Labs      UoR, FoM                 UoC, FoM                     Global-Chemistry
+Govenment Medical Labs      UoR, FoM                 UoC, FoM                     Global-Chemistry-maintainer
  Nucler Medicine Unit         |                       Global-Chemistry             Sul's Research Group
   UoR, FoAHS                  R.A                        |                          Standard Seed Corps
    |                                                     R.A                           | 

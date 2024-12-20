@@ -25,7 +25,9 @@ Govenment Medical Labs      UoR, FoM                 UoC, FoM                   
 
 ```
 
-My journey in the universe of Cheminformatics and Computational Chemistry has been guided by [ Mr. Sul ](https://github.com/Sulstice), who has been an invaluable mentor and educator. Currently, I am leveraging my research experience to support scientists and business professionals in the U.S and also in Sri Lanka. Furthermore, by sharing my knowledge and expertise, I aim to contribute to the development of a skilled and empowered younger generation, providing opportunities for talented individuals and ultimately fostering a better future for our society.
+My journey in the universe of Cheminformatics and Computational Chemistry has been guided by [ Mr. Sul ](https://github.com/Sulstice), who has been an invaluable mentor and educator. Currently, I am leveraging my research experience to support scientists and business professionals in the U.S and also in Sri Lanka. Therfore, I am connecting the dots between academia and industry to build robust pipelines that accelerate and enhance the speed and efficiency of scientific discoveries. 
+
+Furthermore, by sharing my knowledge and expertise, I aim to contribute to the development of a skilled and empowered younger generation, providing opportunities for talented individuals and ultimately fostering a better future for our society.
 
 <!--
 **ANUGAMAGE/ANUGAMAGE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

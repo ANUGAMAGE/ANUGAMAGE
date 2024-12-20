@@ -19,8 +19,8 @@ Govenment Medical Labs      UoR, FoM                 UoC, FoM                   
   UoR, FoAHS                  R.A                        |                          Standard Seed Corps
    |                                                     R.A                           | 
    Med-Tech                                              Open Source Contributer       Research Scientist
-                                                                                       (Anu Research Group)  
-                                                                                       
+                                                                                       (Anu Research Group)
+                                                                                       Junior Cheminformatics Scientist
                                                                                        
 
 ```

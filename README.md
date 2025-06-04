@@ -41,7 +41,6 @@ Furthermore, by sharing my knowledge and expertise, I aim to contribute to the d
 |-|-|-|-|
 | Mr. Suliman Sharif | sharifsuliman1@gmail.com | COO and Founder of Standard Seed Corporation (Global-Chemistry Inc, U.S.A) | [Sul Sharif](https://www.linkedin.com/in/sulimansharif/) |
 | Dr. Pabasara Kalansuriya | p_kalansuriya@med.ruh.ac.lk | Head of the Department of Biochemistry, Faculty of Medicine, University of Ruhuna, Sri Lanka | [Pabasara Kalansuriya](https://www.linkedin.com/in/pabasara-kalansuriya-phd-31647933/) |
-| Dr. Lakmal Ranathinga | lakmalr@agri.pdn.ac.lk | Founder of Agriculture.lk and Lecturer, Department of Animal Science, University of Peradeniya, Sri Lanka | https://www.linkedin.com/in/lakmal-ranathunga-7941b0127/ |
 | Mr. Nishan Karassik | nishan@phylos.bio | CIO & Founder of Phylos Bioscience | [Nishan Karassik](https://www.linkedin.com/in/nishan-karassik-7a26b110/) |
 | Dr. Lakmal Ranathunga | lakmalr@agri.pdn.ac.lk | Lecturer, Department of Animal Science Faculty of Agriculture, University of Peradeniya | [Lakmal Ranathunga](https://www.linkedin.com/in/lakmal-ranathunga-7941b0127/)
 | Dr. Paween Mahinthichaichan | mahinth1@gmail.com | Former ORISE Fellow, FDA, U.S.A | [Paween Mahinthichaichan](https://www.linkedin.com/in/paween-m-91b87526/) | 

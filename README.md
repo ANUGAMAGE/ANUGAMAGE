@@ -1,7 +1,5 @@
 ## Hi there I am Anu
-
-My background is rooted in the medical field, where I initially built a strong foundation. Over time, I expanded my expertise to include Python programming, organic chemistry, and computer science. This multidisciplinary approach eventually led me to specialize in Cheminformatics, Artificial Inteligence, Machine Learning, Quantum Chemistry and Computational Chemistry, with a focus on drug discovery and materials science research.
-
+My background began in the medical field, where I built a strong foundation before expanding into Python programming, organic chemistry, and computer science. This multidisciplinary journey led me to specialize in Cheminformatics, AI, Machine Learning, Quantum Chemistry, and Computational Chemistry, focusing on drug discovery and materials science. Guided by my mentor Dr. Sul, I now use my research experience to support scientists and professionals in both the U.S. and Sri Lanka, bridging academia and industry to accelerate discoveries. By sharing my knowledge, I aim to empower the next generation, create opportunities, and build a better future, while developing tools to help scientists and engineers advance their work.
 **My Journey**
 
 ```
@@ -29,11 +27,6 @@ Govenment Medical Labs      UoR, FoM                 UoC, FoM                   
                                                                                                                               Open Source Community Manager
 
 ```
-
-
-My journey in the universe of Cheminformatics and Computational Chemistry has been guided by [ Dr. Sul ](https://github.com/Sulstice), who has been an invaluable mentor and educator. Currently, I am leveraging my research experience to support scientists and business professionals in the U.S and also in Sri Lanka. Therfore, I am connecting the dots between academia and industry to build robust pipelines that accelerate and enhance the speed and efficiency of scientific discoveries. 
-
-Furthermore, by sharing my knowledge and expertise, I aim to drive pure development from the educational foundation upward empowering the next generation, creating opportunities for talented individuals, and ultimately contributing to a better future for our society. To support this mission, I am also developing new software tools to help scientists and engineers advance their work.
 
 ### My Mentors
 

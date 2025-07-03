@@ -1,6 +1,6 @@
 ## Hi there I am Anu
 
-My background is rooted in the medical field, where I initially built a strong foundation. Over time, I expanded my expertise to include Python programming, organic chemistry, and computer science. This multidisciplinary approach eventually led me to specialize in Cheminformatics Quantum Chemistry and Computational Chemistry, with a focus on drug discovery and materials science research.
+My background is rooted in the medical field, where I initially built a strong foundation. Over time, I expanded my expertise to include Python programming, organic chemistry, and computer science. This multidisciplinary approach eventually led me to specialize in Cheminformatics, Artificial Inteligence, Machine Learning, Quantum Chemistry and Computational Chemistry, with a focus on drug discovery and materials science research.
 
 **My Journey**
 
@@ -33,13 +33,13 @@ Govenment Medical Labs      UoR, FoM                 UoC, FoM                   
 
 My journey in the universe of Cheminformatics and Computational Chemistry has been guided by [ Dr. Sul ](https://github.com/Sulstice), who has been an invaluable mentor and educator. Currently, I am leveraging my research experience to support scientists and business professionals in the U.S and also in Sri Lanka. Therfore, I am connecting the dots between academia and industry to build robust pipelines that accelerate and enhance the speed and efficiency of scientific discoveries. 
 
-Furthermore, by sharing my knowledge and expertise, I aim to contribute to the development of a skilled and empowered younger generation, providing opportunities for talented individuals and ultimately fostering a better future for our society.
+Furthermore, by sharing my knowledge and expertise, I aim to drive pure development from the educational foundation upward empowering the next generation, creating opportunities for talented individuals, and ultimately contributing to a better future for our society. To support this mission, I am also developing new software tools to help scientists and engineers advance their work.
 
 ### My Mentors
 
 | Name | Email | Position | LinkedIn |
 |-|-|-|-|
-| Mr. Suliman Sharif | sharifsuliman1@gmail.com | COO and Founder of Standard Seed Corporation (Global-Chemistry Inc, U.S.A) | [Sul Sharif](https://www.linkedin.com/in/sulimansharif/) |
+| Dr. Suliman Sharif | sharifsuliman1@gmail.com | COO and Founder of Standard Seed Corporation (Global-Chemistry Inc, U.S.A) | [Sul Sharif](https://www.linkedin.com/in/sulimansharif/) |
 | Dr. Pabasara Kalansuriya | p_kalansuriya@med.ruh.ac.lk | Head of the Department of Biochemistry, Faculty of Medicine, University of Ruhuna, Sri Lanka | [Pabasara Kalansuriya](https://www.linkedin.com/in/pabasara-kalansuriya-phd-31647933/) |
 | Mr. Nishan Karassik | nishan@phylos.bio | CIO & Founder of Phylos Bioscience | [Nishan Karassik](https://www.linkedin.com/in/nishan-karassik-7a26b110/) |
 | Dr. Lakmal Ranathunga | lakmalr@agri.pdn.ac.lk | Lecturer, Department of Animal Science Faculty of Agriculture, University of Peradeniya | [Lakmal Ranathunga](https://www.linkedin.com/in/lakmal-ranathunga-7941b0127/)

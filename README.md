@@ -1,5 +1,7 @@
 ## Hi there I am Anu
+
 My background began in the medical field, where I built a strong foundation before expanding into Python programming, organic chemistry, and computer science. This multidisciplinary journey led me to specialize in Cheminformatics, AI, Machine Learning, Quantum Chemistry, and Computational Chemistry, focusing on drug discovery and materials science. Guided by my mentor Dr. Sul, I now use my research experience to support scientists and professionals in both the U.S. and Sri Lanka, bridging academia and industry to accelerate discoveries. By sharing my knowledge, I aim to empower the next generation, create opportunities, and build a better future, while developing tools to help scientists and engineers advance their work.
+
 **My Journey**
 
 ```

@@ -7,7 +7,7 @@ My background began in the medical field, where I built a strong foundation befo
 ```
 Medical Laboratory Science       Medicinal Chemistry      Toxicology                  DevOps Engineering                 Software Engineering/AI and ML Engineering
      /                          Nano-Drug Discovery      Cheminformatics             Computational Chemistry            Bioinformatics/Cheminformatics
-    /                          Computer Science         /                           Quantum Chemistry                  Data Science(AI & ML)
+    /                          Programming/Python       /                           Quantum Chemistry                  Data Science(AI & ML)
    /                          /                        /                           Material Science                   Organic Chemistry
   /                          /                        /                           /                                  /
 2018                      2021                     2023                         2024                               2025

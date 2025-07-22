@@ -5,28 +5,13 @@ My background began in the medical field, where I built a strong foundation befo
 **My Journey**
 
 ```
-Medical Laboratory Science       Medicinal Chemistry      Toxicology                  DevOps Engineering                Software Engineering
-     /                          Nano-Drug Discovery      Cheminformatics             Computational Chemistry            Bioinformatics
-    /                          Computer Science         /                           /                                   Data Science(AI & ML)
-   /                          /                        /                           /                                  /
+Medical Laboratory Science       Medicinal Chemistry      Toxicology                  DevOps Engineering                 Software Engineering/AI and ML Engineering
+     /                          Nano-Drug Discovery      Cheminformatics             Computational Chemistry            Bioinformatics/Cheminformatics
+    /                          Computer Science         /                           Quantum Chemistry                  Data Science(AI & ML)
+   /                          /                        /                           /                                  Organic Chemistry
   /                          /                        /                           /                                  /
 2018                      2021                     2023                         2024                               2025
 /........................./......................../............................/................................../>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-\                         \                        \                            \                                  \
- \                         \                        \                            \                                  \
-Govenment Medical Labs      UoR, FoM                 UoC, FoM                     Global-Chemistry-maintainer        Global-Chemistry-maintainer
- Nucler Medicine Unit         |                       Global-Chemistry             Sul's Research Group               Sul's Research Group
-  UoR, FoAHS                  R.A                        |                          Standard Seed Corps                Standard Seed Corporation
-   |                                                     R.A                           |                                University of Peradeniya-Bioinformatics Research Group
-   Med-Tech                                              Open Source Contributer       Research Scientist                (Dr. Lakmal's Research Group)                
-                                                                                       (Anu Research Group)                Bioinformatics.lk     
-                                                                                       Junior Cheminformatics Scientist     I.S.I
-                                                                                                                              |
-                                                                                                                              Research Scientist
-                                                                                                                              Junior Cheminformatics Scientist
-                                                                                                                              Awaiting M.Phill Candidate
-                                                                                                                              Tutor
-                                                                                                                              Open Source Community Manager
 
 ```
 
